@@ -1,4 +1,4 @@
-https://zenodo.org/badge/286022491.svg
+[![DOI](https://zenodo.org/badge/286022491.svg)](https://zenodo.org/badge/latestdoi/286022491)
 
 # SK-MachineLearning
 A python code to predict SK parameters using Machine Learning
